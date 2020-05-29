@@ -1,0 +1,21 @@
+{
+    "name": "unicate/translation",
+    "description": "File based translation for use in Views.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^7.0"
+    },
+    "authors": [
+        {
+            "name": "unicate",
+            "email": "mail2mail@gmx.ch"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Unicate\\Translation\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
