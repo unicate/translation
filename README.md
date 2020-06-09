@@ -1,6 +1,8 @@
 # Translation
 
-File based translation for use in Views.
+Universal translation mechanism based on an associative array.
+Can be easily used directly in native PHP pages or integrated in templates systems like
+[Plates](https://platesphp.com/).
 
 
 ### Installation
